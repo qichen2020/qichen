@@ -17,7 +17,6 @@ st.set_page_config(
 
 title="COVID-19 in Malaysia"
 st.markdown(f"<h1 style='text-align: center; color: black;'>{title}</h1>", unsafe_allow_html=True)
-st.markdown(f"<h5 style='text-align: center; color: black;'>{subtitle}</h5>", unsafe_allow_html=True)
 
     
 # Dashboard
